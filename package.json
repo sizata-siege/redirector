@@ -1,0 +1,19 @@
+{
+  "name": "@sizata/redirector",
+  "version": "0.0.2",
+  "description": "A tiny js library to redirect browser easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sizata-siege/redirector.git"
+  },
+  "author": "Amirhossein Shakeri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sizata-siege/redirector/issues"
+  },
+  "homepage": "https://github.com/sizata-siege/redirector#readme"
+}
